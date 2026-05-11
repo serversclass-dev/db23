@@ -1,1 +1,21 @@
-{}
+{
+  "toto": {
+    "username": "toto",
+    "password": "20082005*aA",
+    "student_type": "أدبي",
+    "telegram_user_id": "6326703760",
+    "telegram_username": null,
+    "telegram_first_name": "ݺ،تـوتو❤️🥹.",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_38.jpg",
+    "session_id": "db2b351e-ad45-41db-862f-9fdc3eda7402",
+    "created_at": "2026-05-10T17:37:16.226968",
+    "verified": true,
+    "last_login": "2026-05-10T17:37:38.424424",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "sociology"
+    ],
+    "server_num": 23
+  }
+}
